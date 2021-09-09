@@ -1,0 +1,2 @@
+# grouper
+Randomized group generator
